@@ -1,1 +1,1 @@
-OpenClassroom Course: Learn the basics of HTML and CSS. Create a photographer's website with a homepage featuring photos, an information page about the services offered, and a portfolio page with clickable pictures.
+Openclassrooms Course: Learn the basics of HTML and CSS. Create a photographer's website with a homepage featuring photos, an information page about the services offered, and a portfolio page with clickable pictures.
